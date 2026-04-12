@@ -161,6 +161,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [@delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - Interact with [Postman API](https://www.postman.com/postman/postman-public-workspace/)
 - [@vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, PDF, DOCX (.docx), csv and more.
 - [@pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - This MCP server provides a tool to download entire websites using wget. It preserves the website structure and converts links to work locally.
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) 🐍 ☁️ - SEO & Google Ads skills for Claude Code. Meta tag rewrites, JSON-LD schema markup, keyword bid adjustments, and content pushes to WordPress/Strapi/Contentful/Ghost.
+
 
 ### 🧮 Data Science Tools
 
